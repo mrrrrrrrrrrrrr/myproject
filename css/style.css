@@ -1,0 +1,18 @@
+p {
+    color: mediumaquamarine;
+    font-size: 30px;
+}
+
+* {
+    color: salmon;
+}
+
+.text {
+   color: firebrick;
+   font-size: 50px; 
+}
+
+.password {
+    color: red;
+    font-size: 100px;
+}
